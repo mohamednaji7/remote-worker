@@ -1,0 +1,15 @@
+# set the env vars
+REPO_URL > https://github.com/mohamednaji7/runpod-workers-scripts.git
+REPO_NAME > runpod-workers-scripts
+SCRIPT_DIR > hello
+SCRIPT_NAME > keep_try_update_and_run.py
+
+# written in lines to copy paste >>>
+REPO_URL
+https://github.com/mohamednaji7/runpod-workers-scripts.git
+REPO_NAME
+runpod-workers-scripts
+SCRIPT_DIR
+hello
+SCRIPT_NAME
+keep_try_update_and_run.py
