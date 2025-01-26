@@ -21,7 +21,7 @@ group "main" {
 
  
 target "worker-1210" {
-  tags = ["${REPOSITORY}/worker-v1-vllm:${BASE_IMAGE_VERSION}-cuda12.1.0"]
+  tags = ["${REPOSITORY}/worker-v1-remote_worker:${BASE_IMAGE_VERSION}-cuda12.1.0"]
   context = "."
   dockerfile = "Dockerfile"
   args = {
